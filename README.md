@@ -1,6 +1,6 @@
 ### Hello - I'm Benson
 
-I am a student who is currently working as a DevOps Engineer at Lifeline Systems.
+I am a DevOps engineer currently looking for opportunities!
 
 My current interests are in cloud engineering, machine learning, networking, and distributed systems.
 
